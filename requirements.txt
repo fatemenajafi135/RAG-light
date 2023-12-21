@@ -1,0 +1,7 @@
+openai==0.28
+langchain
+sentence_transformers
+tiktoken
+faiss-cpu
+python-dotenv
+flask
